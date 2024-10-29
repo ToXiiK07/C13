@@ -1,0 +1,23 @@
+Établissement ou Entreprise	Société (Company)
+Titre du document		Titre(Title)
+Sous-titre du document		Objet (Subject)
+Réalisé par:			Auteur
+				Responsable
+Remis à:			Ligne Salutation
+Dans le cadre du cours		Comments
+Date				...
+
+
+
+
+Comment faire son propre champ:
+
+Faire apparaitre l'onglet Développeur
+Fichier -> Options -> Personnaliser le ruban -> Cocher l'onglet Développeur
+
+Ajouter le champs
+Cliquer sur Mode Création
+Ajouter un contrôle de texte brut
+Cliquer sur Propriétés pour donner un Titre de balise
+Cliquer à nouveau sur le bouton mode Création
+
